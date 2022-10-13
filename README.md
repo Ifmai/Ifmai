@@ -1,6 +1,3 @@
-Hi, I’m @Ifmai.
-I'm currently a student and I'm trying to improve myself. 
-Honestly, I enjoy coding. Here I aim to improve myself as much as I can. 
-I make my own chart by uploading the works I have done while improving myself. 
-Maybe one day, by doing this, I'll be helping someone improve themselves. 
-📫 If you want to reach me my Discord -->Ifmai#3314/ my Instagram --> alparrs / my Twitter --> vaveylarose
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/mcakay)
