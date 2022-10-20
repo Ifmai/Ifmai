@@ -11,7 +11,7 @@
 | No  | Project                                     | Status |
 | :-: | :------------------------------------------ | :----: |
 | 1   | [Libft](../../../libft-42-cursus)               | [![hozdemir's 42 Libft Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2817477)](https://github.com/JaeSeoKim/badge42)  |
-| 2   | [ft_printf](../../../Ifmai/ft-printf-42-cursus)                | [![hozdemir's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2833121)](https://github.com/JaeSeoKim/badge42)  |
+| 2   | [ft_printf](../../../ft-printf-42-cursus)                | [![hozdemir's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2833121)](https://github.com/JaeSeoKim/badge42)  |
 | 3   | [get_next_line](../../../get_next_line)            | [![hozdemir's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2841233)](https://github.com/JaeSeoKim/badge42)  |
 
 ![akame_ga_kill_banner_by_gunha_d9yd3d1-fullview](https://user-images.githubusercontent.com/94466351/195575353-7fdcb4d7-7cc5-45b8-8bc0-df7a5c914e11.jpeg)
