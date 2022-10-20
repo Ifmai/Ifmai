@@ -1,7 +1,7 @@
 ![f3fdb3cbae21b7166e6acb4d62ce2180](https://user-images.githubusercontent.com/94466351/195575216-c95bc323-5062-4f44-9888-02c59f968279.jpeg)
 
 
-[![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=198)](https://github.com/JaeSeoKim/badge42)
+[![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight)
 
