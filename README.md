@@ -7,12 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
 
-
-| No  | Project                                     | Status |
-| :-: | :------------------------------------------ | :----: |
-| 1   | [Libft](../../../libft-42-cursus)               | [![hozdemir's 42 Libft Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2817477)](https://github.com/JaeSeoKim/badge42)  |
-| 2   | [ft_printf](../../../ft-printf-42-cursus)                | [![hozdemir's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2833121)](https://github.com/JaeSeoKim/badge42)  |
-| 3   | [get_next_line](../../../get_next_line)            | [![hozdemir's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2841233)](https://github.com/JaeSeoKim/badge42)  |
-| 4   | [born2beroot](../../../born2beroot)            | [![hozdemir's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/project/2845889)](https://github.com/JaeSeoKim/badge42)  |
+<img width="943" alt="Screen Shot 2022-11-10 at 5 28 45 AM" src="https://user-images.githubusercontent.com/94466351/200985662-032392eb-b72d-46ee-8f01-ebd8e46e222c.png">
 
 ![akame_ga_kill_banner_by_gunha_d9yd3d1-fullview](https://user-images.githubusercontent.com/94466351/195575353-7fdcb4d7-7cc5-45b8-8bc0-df7a5c914e11.jpeg)
