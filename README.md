@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
 
 
-![image](https://user-images.githubusercontent.com/94466351/202289159-06e8252f-3645-431f-8793-d55a168d6e67.png)
+<img width="947" alt="Ekran Resmi 2023-01-12 ÖÖ 4 00 36" src="https://user-images.githubusercontent.com/94466351/211950869-52321932-8e57-40f7-affb-a3b7dfa8d7ee.png">
 
 
 ![akame_ga_kill_banner_by_gunha_d9yd3d1-fullview](https://user-images.githubusercontent.com/94466351/195575353-7fdcb4d7-7cc5-45b8-8bc0-df7a5c914e11.jpeg)
