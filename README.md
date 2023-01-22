@@ -4,7 +4,7 @@ Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken 
 
 Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
 
-## 42 Profilim
+## 42 Stats
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
 ## Github Stats
