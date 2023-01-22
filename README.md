@@ -1,6 +1,6 @@
 # Hüseyin "Ifami" Alpaslan Özdemir
 
-Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken ki yaptığım araştırmaları paylaşıyorum. Yaklaşık iki buçuk yıldır yazılım ile ilgileniyorum ve 3 Ekim 2022 tarihinde 42 Istanbulda eğitim görmeye başladım. Kırklareli Bilgisayar Programcılığı 2022 mevzunuyum (3.7 diploma notum). (Evet profil fotoğrafında ki kedi benim kedim.)
+Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken yaptığım araştırmaları paylaşıyorum. Yaklaşık 2.5 yıldır yazılım ile ilgileniyorum ve 3 Ekim 2022 tarihinde 42 İstanbul'da eğitim görmeye başladım. Kırklareli Bilgisayar Programcılığı 2022 mezunuyum (3.7 diploma notum). (Evet profil fotoğrafında ki kedi benim kedim.)
 
 Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
 
