@@ -1,8 +1,5 @@
 # Hüseyin "Ifami" Alpaslan Özdemir
 
-![Profil Resmi]![WhatsApp Image 2023-01-21 at 01 56 24](https://user-images.githubusercontent.com/94466351/213903106-e3b0608a-e14b-422f-8be8-b014ba42088d.jpeg)
-
-
 Merhaba, ben [Alp] ve [Backend devaloper]. Bu profilimde, yaptığım projeler ve araştırmaları paylaşıyorum.
 
 # 42 Profilim
