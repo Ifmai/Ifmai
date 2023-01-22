@@ -1,6 +1,8 @@
 # Hüseyin "Ifami" Alpaslan Özdemir
 
-Merhaba, ben [Alp] ve [Backend devaloper]. Bu profilimde, yaptığım projeler ve araştırmaları paylaşıyorum.
+Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken ki yaptığım araştırmaları paylaşıyorum.
+
+Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
 
 # 42 Profilim
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
@@ -12,6 +14,7 @@ Merhaba, ben [Alp] ve [Backend devaloper]. Bu profilimde, yaptığım projeler v
 ## Şuan 42'de Yaptığım Projelerim
 
 <img width="947" alt="Ekran Resmi 2023-01-12 ÖÖ 4 00 36" src="https://user-images.githubusercontent.com/94466351/211950869-52321932-8e57-40f7-affb-a3b7dfa8d7ee.png">
+(42 öğrencisiysen lütfen projeleri direk çekip alma sadece ne yapman gerektiğini anla ve kendin yap, diğer türlü kendini geliştirmiye çalışırken aslında hiç bir şey öğrenmemiş olursun.)
 
 ## İletişim
 
