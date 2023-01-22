@@ -1,6 +1,6 @@
 # Hüseyin "Ifami" Alpaslan Özdemir
 
-![Profil Resmi](https://avatars3.githubusercontent.com/u/12345678?s=400&v=4)
+![Profil Resmi]
 
 Merhaba, ben [Alp] ve [Backend devaloper]. Bu profilimde, yaptığım projeler ve araştırmaları paylaşıyorum.
 
