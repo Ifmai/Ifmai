@@ -1,4 +1,4 @@
-# Hüseyin "Ifami" Alpaslan Özdemir
+# Hüseyin "Ifmai" Alpaslan Özdemir
 
 Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken yaptığım araştırmaları paylaşıyorum. Yaklaşık 2.5 yıldır yazılım ile ilgileniyorum ve 3 Ekim 2022 tarihinde 42 İstanbul'da eğitim görmeye başladım. Kırklareli Bilgisayar Programcılığı 2022 mezunuyum (3.7 diploma notum). (Evet profil fotoğrafındaki kedi benim kedim.)
 
