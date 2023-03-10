@@ -23,6 +23,4 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 - Twitter: [https://twitter.com/vaveylarose]
 
 
-![HD-wallpaper-anime-mushoku-tensei-jobless-reincarnation-roxy-migurdia](https://user-images.githubusercontent.com/94466351/224196630-9f379654-aa32-44e1-adac-4801d14f6941.jpeg)
-
 ![Cool-Roxy-Migurdia](https://user-images.githubusercontent.com/94466351/224197009-756b15cb-14d1-4fcd-820e-e96b5a0ae402.jpeg)
