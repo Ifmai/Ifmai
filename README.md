@@ -7,7 +7,7 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 ## 42 Stats
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
-![HD-wallpaper-anime-mushoku-tensei-jobless-reincarnation-roxy-migurdia](https://user-images.githubusercontent.com/94466351/224196630-9f379654-aa32-44e1-adac-4801d14f6941.jpeg)
+
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
@@ -22,5 +22,6 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 - LinkedIn: [www.linkedin.com/in/huseyinalpaslan]
 - Twitter: [https://twitter.com/vaveylarose]
 
-![1500x500](https://user-images.githubusercontent.com/94466351/213903428-471259fd-81a1-4127-9e3d-64649f665558.png)
+
+![HD-wallpaper-anime-mushoku-tensei-jobless-reincarnation-roxy-migurdia](https://user-images.githubusercontent.com/94466351/224196630-9f379654-aa32-44e1-adac-4801d14f6941.jpeg)
 
