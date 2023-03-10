@@ -1,3 +1,5 @@
+![HD-wallpaper-anime-mushoku-tensei-jobless-reincarnation-roxy-migurdia](https://user-images.githubusercontent.com/94466351/224196630-9f379654-aa32-44e1-adac-4801d14f6941.jpeg)
+
 # Hüseyin "Ifmai" Alpaslan Özdemir
 
 Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken yaptığım araştırmaları paylaşıyorum. Yaklaşık 2.5 yıldır yazılım ile ilgileniyorum ve 3 Ekim 2022 tarihinde 42 İstanbul'da eğitim görmeye başladım. Kırklareli Bilgisayar Programcılığı 2022 mezunuyum (3.7 diploma notum). (Evet profil fotoğrafındaki kedi benim kedim.)
@@ -21,4 +23,4 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 - Twitter: [https://twitter.com/vaveylarose]
 
 ![1500x500](https://user-images.githubusercontent.com/94466351/213903428-471259fd-81a1-4127-9e3d-64649f665558.png)
-![HD-wallpaper-anime-mushoku-tensei-jobless-reincarnation-roxy-migurdia](https://user-images.githubusercontent.com/94466351/224196630-9f379654-aa32-44e1-adac-4801d14f6941.jpeg)
+
