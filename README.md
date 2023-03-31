@@ -14,7 +14,7 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 
 ## Şuan 42'de Yaptığım Projelerim
 
-<img width="947" alt="Ekran Resmi 2023-01-12 ÖÖ 4 00 36" src="https://user-images.githubusercontent.com/94466351/211950869-52321932-8e57-40f7-affb-a3b7dfa8d7ee.png">
+<img width="935" alt="Ekran Resmi 2023-03-31 ÖÖ 6 48 58" src="https://user-images.githubusercontent.com/94466351/229018109-829af1b5-2eed-4fd2-8149-11e79f608861.png">
 (42 öğrencisiysen lütfen projeleri direkt çekip alma sadece ne yapman gerektiğini anla ve kendin yap, diğer türlü kendini geliştirmeye çalışırken aslında hiçbir şey öğrenmemiş olursun.)
 
 ## İletişim
