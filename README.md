@@ -20,7 +20,6 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 ## İletişim
 
 - LinkedIn: [www.linkedin.com/in/huseyinalpaslan]
-- Twitter: [https://twitter.com/vaveylarose]
 
 
 ![Cool-Roxy-Migurdia](https://user-images.githubusercontent.com/94466351/224197009-756b15cb-14d1-4fcd-820e-e96b5a0ae402.jpeg)
