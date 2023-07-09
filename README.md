@@ -8,13 +8,10 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
 ## Github Stats
-<div  align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai) <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ifmai&theme=dark)](https://git.io/streak-stats) <br/>
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ifmai&theme=dark)](https://git.io/streak-stats)
 
 ## Şuan 42'de Yaptığım Projelerim
 
