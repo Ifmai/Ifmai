@@ -12,7 +12,7 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ifmai)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ifmai&theme=dark)](https://git.io/streak-stats)
 
 ## Şuan 42'de Yaptığım Projelerim
 
