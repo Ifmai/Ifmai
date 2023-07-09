@@ -5,16 +5,16 @@ Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken 
 Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
 
 ## 42 Stats
-<div  align="center">
+
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
 
-
+<div  align="center">
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai) <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ifmai&theme=dark)](https://git.io/streak-stats) <br/>
-
+</div>
 ## Şuan 42'de Yaptığım Projelerim
 
 <img width="935" alt="Ekran Resmi 2023-03-31 ÖÖ 6 48 58" src="https://user-images.githubusercontent.com/94466351/229018109-829af1b5-2eed-4fd2-8149-11e79f608861.png">
@@ -23,6 +23,6 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 ## İletişim
 
 - LinkedIn: [www.linkedin.com/in/huseyinalpaslan]
-</div>
+
 
 ![Cool-Roxy-Migurdia](https://user-images.githubusercontent.com/94466351/224197009-756b15cb-14d1-4fcd-820e-e96b5a0ae402.jpeg)
