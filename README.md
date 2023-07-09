@@ -5,10 +5,7 @@ Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken 
 Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
 
 ## 42 Stats
-
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
-
-
 
 ## Github Stats
 <div  align="center">
@@ -18,6 +15,7 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 [![GitHub Streak](https://streak-stats.demolab.com?user=ifmai&theme=dark)](https://git.io/streak-stats) <br/>
 
 </div>
+
 ## Şuan 42'de Yaptığım Projelerim
 
 <img width="935" alt="Ekran Resmi 2023-03-31 ÖÖ 6 48 58" src="https://user-images.githubusercontent.com/94466351/229018109-829af1b5-2eed-4fd2-8149-11e79f608861.png">
