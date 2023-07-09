@@ -1,10 +1,9 @@
 # Hüseyin Alpaslan Özdemir
 
-![](https://komarev.com/ghpvc/?username=ifmai&color=green)
 Merhaba, ben Alp. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken yaptığım araştırmaları paylaşıyorum. Yaklaşık 2.5 yıldır yazılım ile ilgileniyorum ve 3 Ekim 2022 tarihinde 42 İstanbul'da eğitim görmeye başladım. Kırklareli Bilgisayar Programcılığı 2022 mezunuyum (3.7 diploma notum).
 
 Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ararken bir çark sitesine tüm İngilizce alfabeyi yazdım ve 5 defa çevirdim ve ardından gelen harfleri sırasıyla yazarak nickname yaptım.
-
+<div  align="center">
 ## 42 Stats
 [![hozdemir's 42 stats](https://badge42.vercel.app/api/v2/cl96wo4gz00360gla3dv8dxpx/stats?cursusId=21&coalitionId=228)](https://github.com/JaeSeoKim/badge42)
 
@@ -23,6 +22,6 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 ## İletişim
 
 - LinkedIn: [www.linkedin.com/in/huseyinalpaslan]
-
+</div>
 
 ![Cool-Roxy-Migurdia](https://user-images.githubusercontent.com/94466351/224197009-756b15cb-14d1-4fcd-820e-e96b5a0ae402.jpeg)
