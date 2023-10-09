@@ -9,11 +9,6 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifmai&layout=compact&theme=tokyonight)](https://github.com/ifmai)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifmai&theme=tokyonight)
 
-## Şuan 42'de Yaptığım Projelerim
-
-<img width="935" alt="Ekran Resmi 2023-03-31 ÖÖ 6 48 58" src="https://user-images.githubusercontent.com/94466351/229018109-829af1b5-2eed-4fd2-8149-11e79f608861.png">
-(42 öğrencisiysen lütfen projeleri direkt çekip alma sadece ne yapman gerektiğini anla ve kendin yap, diğer türlü kendini geliştirmeye çalışırken aslında hiçbir şey öğrenmemiş olursun.)
-
 ## İletişim
 
 - LinkedIn: [www.linkedin.com/in/huseyinalpaslan]
