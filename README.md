@@ -34,7 +34,7 @@ Ifmai nickname'i bir anlamı var mı? Aslında yok. Bir gün kendime nickname ar
         </td>
         <td>
             <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40" />
+                <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoftsqlserver" width="40" height="40" />
             </a>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
