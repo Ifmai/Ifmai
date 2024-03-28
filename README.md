@@ -17,7 +17,7 @@ const alp_ifmai = {
     software_langue: "c++, c , c# , python",
     database: "mysql, mariadb, mssql",
     hobbies: {
-        coding: ["Actually, this is my hobby. (Actually, that's how the story began.)"]
+        coding: ["Actually, this is my hobby. (Actually, that's how the story began.)"],
         art: ["poem", "Animation Video", "Adobe Photoshop/After Effects"],
         drink_coffee: ["every day"],
         play: ["video games" , "chess"],
