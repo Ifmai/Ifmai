@@ -14,7 +14,7 @@ const alp_ifmai = {
             nurse: ["I interned for 9 months in intensive care."],
         }
     },
-    software_langue: "c++, c , c# , python",
+    software_language: "c++, c , c# , python",
     database: "mysql, mariadb, mssql",
     hobbies: {
         coding: ["Actually, this is my hobby. (Actually, that's how the story began.)"],
