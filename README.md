@@ -24,7 +24,7 @@ const alp_ifmai = {
         extreme_spor: ["skateboard", "roller skate"]
     },
     pets: "cat, fish, bird",
-    motto: "The ambition inside of me is either going to kill me or lead me to success. ⛈️",
+    motto: "Kishi Kaisei 起死回生",
 };
 ```
 
