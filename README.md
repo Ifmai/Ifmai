@@ -6,7 +6,7 @@
   
 ```javascript
 const alp_ifmai = {
-    bio: "Hi!👋🏻 21 years old computer engineering student in Istanbul",
+    bio: "Hi!👋🏻 22 years old computer engineering student in Istanbul",
     goals: {
         career: {
             internship: ["experience:", "Software Internship Eksera Electronic Computer - Intern"],
