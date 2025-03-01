@@ -21,7 +21,7 @@ const alp_ifmai = {
         coding: ["Actually, this is my hobby. (Actually, that's how the story began.)"],
         art: ["poem", "Animation Video", "Adobe Photoshop/After Effects"],
         drink_coffee: ["every day"],
-        play: ["video games" , "chess"],
+        play: ["only chess"],
         extreme_spor: ["skateboard", "roller skate"]
     },
     pets: "cat, fish, bird",
