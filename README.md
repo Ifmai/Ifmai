@@ -6,7 +6,7 @@
   
 ```javascript
 const alp_ifmai = {
-    bio: "Hi!👋🏻 22 years old computer engineering student in Istanbul",
+    bio: "Hi!👋🏻 23 years old computer engineering student in Istanbul",
     goals: {
         career: {
             internship: ["experience:", "Software Internship Eksera Electronic Computer - Intern"],
@@ -14,7 +14,7 @@ const alp_ifmai = {
             nurse: ["I interned for 9 months in intensive care."],
         }
     },
-    software_language: "c++, c , c# , python(django, RESTfull)",
+    software_language: "c++, c , c# , python(django, RESTfull), go",
     database: "postgresql, mysql, mariadb, mssql",
     container: "docker",
     hobbies: {
